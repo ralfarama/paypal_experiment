@@ -1,0 +1,4 @@
+# Python 2 requirements
+paypalrestsdk
+python-dotenv
+python-dateutil

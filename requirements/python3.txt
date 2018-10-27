@@ -1,0 +1,5 @@
+# Python 3 requirements
+requests
+paypalrestsdk
+python-dotenv
+python-dateutil

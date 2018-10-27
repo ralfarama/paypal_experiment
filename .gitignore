@@ -1,0 +1,10 @@
+# ignore Python compilation leftovers
+*.py[cdo]
+# ignore virtual environments
+py2_venv
+py3_venv
+# ignore .env files
+.env
+.env*
+# ignore scratch dir
+_scratch
